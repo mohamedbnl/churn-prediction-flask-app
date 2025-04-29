@@ -7,7 +7,7 @@ This project predicts customer churn using a machine learning model integrated i
 - `churn.ipynb` — Jupyter Notebook for data preprocessing, model training, and saving the trained model.
 - `app.py` — Flask backend for handling requests and serving HTML pages.
 - `templates/home.html` — Frontend form for inputting customer information.
-- `templates/result.html` — (not provided yet) Displays the prediction result.
+- `templates/result.html` — Displays the prediction result.
 - `knn_churn.pkl` — Pre-trained machine learning model saved using `joblib`.
 
 ## How It Works
